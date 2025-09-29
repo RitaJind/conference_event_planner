@@ -6,25 +6,25 @@ A **React application** built with Redux Toolkit for comprehensive conference ev
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-Latest-purple.svg)
 ![Vite](https://img.shields.io/badge/Vite-4+-yellow.svg)
 
-## 🚀 Overview
+##  Overview
 
 Web application for event planning with real-time cost calculation, venue management, and interactive user experience. Built with modern React patterns and Redux state management.
 
-## 📋 Features
+##  Features
 
-### 🏢 **Venue Management**
+###  **Venue Management**
 - Multi-venue selection (Auditorium, Conference Rooms, Meeting Rooms)
 - Smart quantity controls with business rules
 - Real-time cost calculation
 - Venue-specific booking limits (Auditorium: max 3, Others: max 10)
 
-### 🛠️ **Technical Features**
+###  **Technical Features**
 - Redux Toolkit state management
 - Responsive mobile-first design
 - Component-based architecture
 - Hash-based navigation
 
-## 🏃‍♂️ Quick Start
+##  Quick Start
 
 ```bash
 # Clone and install
@@ -37,14 +37,14 @@ npm run dev
 # Open http://localhost:5173
 ```
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 18, Redux Toolkit
 - **Build Tool**: Vite
 - **Styling**: CSS3 with Grid/Flexbox
 - **State Management**: Redux with createSlice pattern
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 src/
@@ -57,7 +57,7 @@ src/
 └── avSlice.js           # AV equipment (planned)
 ```
 
-## 🚧 Development Status
+##  Development Status
 
 ### ✅ **Completed**
 - Venue selection with quantity management
@@ -73,7 +73,7 @@ src/
 
 ---
 
-## 👨‍💻 About the Developer
+##  About the Developer
 
 **Rita Jindal** - Software Engieer  
 
