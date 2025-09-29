@@ -75,6 +75,6 @@ src/
 
 ## 👨‍💻 About the Developer
 
-**Rita Jindal** - Full Stack Developer  
+**Rita Jindal** - Software Engieer  
 
-*Passionate about building scalable, secure, and maintainable software solutions. Experienced in microservices architecture, cloud-native development, and full-stack web applications.*
+*Passionate about building scalable, secure, and maintainable software solutions. Experienced in microservices architecture, cloud-native, and full-stack software development.*
